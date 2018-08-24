@@ -1,4 +1,5 @@
 # waitforme
+wairforme-a12c1.firebaseapp.com
 
 > Nuxt.js project
 
