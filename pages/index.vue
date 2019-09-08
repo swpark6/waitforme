@@ -25,7 +25,7 @@ export default {
   },
   methods: {
     updateTime () {
-      this.myTime = countdown(new Date(), new Date(1570924800), countdown.DEFAULTS, 11, 0).toString()
+      this.myTime = countdown( new Date(2019, 9, 13) ).toString()
     }
   }
 }
