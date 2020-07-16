@@ -15,7 +15,7 @@
   "dependencies": {
     "countdown": "^2.6.0",
     "firebase": "^6.6.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "nuxt": "^2.9.2",
     "vuetify": "^2.0.15"
   },
