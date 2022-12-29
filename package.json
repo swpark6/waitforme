@@ -16,14 +16,14 @@
     "countdown": "^2.6.0",
     "firebase": "^6.6.0",
     "lodash": "^4.17.15",
-    "nuxt": "^2.9.2",
+    "nuxt": "^3.0.0",
     "vuetify": "^2.0.15"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
     "eslint": "^6.3.0",
     "eslint-friendly-formatter": "^4.0.1",
-    "eslint-loader": "^3.0.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^5.2.3"
   }
 }
